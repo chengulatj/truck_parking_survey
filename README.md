@@ -35,7 +35,7 @@
    - [Sentiment Distribution (Donut Chart)](#visualization-sentiment-distribution-donut-chart)  
    - [Confidence Score Distribution by Sentiment Prediction](#visualization-confidence-score-distribution-by-sentiment-prediction)
 
-
+## Project Overview
 This project analyzes the **TPAS Survey Dataset** to extract meaningful insights and apply computational techniques, including machine learning and natural language processing (NLP). The code is designed to run in [Google Colab](https://colab.research.google.com), ensuring accessibility and ease of use.
 
 ## Features
@@ -533,4 +533,24 @@ plt.show()
 
 These visualizations and analyses provide detailed insights into the sentiment of California-specific feedback and highlight the model's certainty in its predictions.
 
+MIT License
 
+Copyright (c) 2024 Juliana Chengula
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
